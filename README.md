@@ -11,6 +11,7 @@ TailwindCSS (In discussion)
 ## Contributors
 
 Carlos Almánzar
+Elizabeth Gonzalez
 
 ## License
 
