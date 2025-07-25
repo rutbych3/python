@@ -1,6 +1,7 @@
-# Project name in discussion
+# (Project Name): Accessible Health Insurance
 
-Our project will consist in a financial management app focused in health issues.
+
+**Project Name** is a web-based health insurance platform built to empower low-income individuals and families with affordable, transparent coverage and seamless access to essential medical services.
 
 
 ## Tech Stack
@@ -18,4 +19,4 @@ Our project will consist in a financial management app focused in health issues.
 
 ## License
 
-MIT License for the moment
+Pending License
