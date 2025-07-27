@@ -8,7 +8,7 @@
 
 - Python
 - Django
-- TailwindCSS (In discussion)
+- Bootstrap 5
 
 
 ## Contributors
