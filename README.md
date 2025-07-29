@@ -1,7 +1,7 @@
-# (Project Name): Accessible Health Insurance
+# Gesund: Accessible Health Insurance
 
 
-**Project Name** is a web-based health insurance platform built to empower low-income individuals and families with affordable, transparent coverage and seamless access to essential medical services.
+**Gesund** is a web-based health insurance platform built to empower low-income individuals and families with affordable, transparent coverage and seamless access to essential medical services.
 
 
 ## Tech Stack
