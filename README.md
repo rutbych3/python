@@ -6,9 +6,9 @@
 
 ## Tech Stack
 
-- Python
-- Django
-- Bootstrap 5
+- Python (Python 3.13.0)
+- Django (Django 5.1)
+- Bootstrap 5 (django-bootstrap5 25.2)
 
 
 ## Contributors
