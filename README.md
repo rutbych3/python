@@ -6,9 +6,18 @@
 
 ## Tech Stack
 
-- Python (Python 3.13.0)
-- Django (Django 5.1)
-- Bootstrap 5 (django-bootstrap5 25.2)
+### Programming Languages
+- Python 3.13.0
+- HTML 5
+
+### Frontend
+- django-bootstrap5 25.2
+
+### Backend
+- Django 5.1
+
+### Database
+- SQLite 3
 
 
 ## Contributors
